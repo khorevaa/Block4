@@ -1,2 +1,6 @@
 ﻿Configuration.xml-->Configuration.xml
+Catalogs\Контрагенты.xml-->Catalogs\Контрагенты.xml
+Catalogs\Номенклатура.xml-->Catalogs\Номенклатура.xml
+Catalogs\Склады.xml-->Catalogs\Склады.xml
+Documents\Поступление.xml-->Documents\Поступление.xml
 Languages\Русский.xml-->Languages\Русский.xml

@@ -118,6 +118,10 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>Склады</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Document>Поступление</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
