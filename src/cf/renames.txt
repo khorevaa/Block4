@@ -3,4 +3,7 @@ Catalogs\Контрагенты.xml-->Catalogs\Контрагенты.xml
 Catalogs\Номенклатура.xml-->Catalogs\Номенклатура.xml
 Catalogs\Склады.xml-->Catalogs\Склады.xml
 Documents\Поступление.xml-->Documents\Поступление.xml
+Documents\Поступление\Forms\ФормаДокумента.xml-->Documents\Поступление\Forms\ФормаДокумента.xml
+Documents\Поступление\Forms\ФормаДокумента\Ext\Form.xml-->Documents\Поступление\Forms\ФормаДокумента\Ext\Form.xml
+Documents\Поступление\Forms\ФормаДокумента\Ext\Form\Module.bsl-->Documents\Поступление\Forms\ФормаДокумента\Ext\Form\Module.bsl
 Languages\Русский.xml-->Languages\Русский.xml
