@@ -4,8 +4,13 @@ Catalogs\Контрагенты.xml-->Catalogs\Контрагенты.xml
 Catalogs\Номенклатура.xml-->Catalogs\Номенклатура.xml
 Catalogs\Склады.xml-->Catalogs\Склады.xml
 Documents\Поступление.xml-->Documents\Поступление.xml
+Documents\Продажа.xml-->Documents\Продажа.xml
 Documents\Поступление\Ext\ObjectModule.bsl-->Documents\Поступление\Ext\ObjectModule.bsl
 Documents\Поступление\Forms\ФормаДокумента.xml-->Documents\Поступление\Forms\ФормаДокумента.xml
 Documents\Поступление\Forms\ФормаДокумента\Ext\Form.xml-->Documents\Поступление\Forms\ФормаДокумента\Ext\Form.xml
 Documents\Поступление\Forms\ФормаДокумента\Ext\Form\Module.bsl-->Documents\Поступление\Forms\ФормаДокумента\Ext\Form\Module.bsl
+Documents\Продажа\Ext\ObjectModule.bsl-->Documents\Продажа\Ext\ObjectModule.bsl
+Documents\Продажа\Forms\ФормаДокумента.xml-->Documents\Продажа\Forms\ФормаДокумента.xml
+Documents\Продажа\Forms\ФормаДокумента\Ext\Form.xml-->Documents\Продажа\Forms\ФормаДокумента\Ext\Form.xml
+Documents\Продажа\Forms\ФормаДокумента\Ext\Form\Module.bsl-->Documents\Продажа\Forms\ФормаДокумента\Ext\Form\Module.bsl
 Languages\Русский.xml-->Languages\Русский.xml

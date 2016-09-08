@@ -122,6 +122,7 @@
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Document>Поступление</Document>
+			<Document>Продажа</Document>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
