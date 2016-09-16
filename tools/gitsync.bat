@@ -1,1 +1,3 @@
-oscript F:\videoCourseGit1C\Block4\tools\gitsync\gitsync.os F:\localStorage\Block4 https://github.com/poabor/Block4
+echo "Синхронизация Block4"
+cd F:\videoCourseGit1C\Block4
+gitsync "F:\localConfiguration\Block4" https://github.com/poabor/Block4.git
