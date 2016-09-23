@@ -2,10 +2,10 @@
 <V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<V8Exch:Data>
 		<v8:CatalogObject.Склады>
-			<v8:Ref xsi:type="v8:CatalogRef.Склады">99b42692-74fd-11e6-9148-e069953c651b</v8:Ref>
+			<v8:Ref xsi:type="v8:CatalogRef.Склады">e9054227-736f-11e6-9148-e069953c651b</v8:Ref>
 			<v8:DeletionMark>false</v8:DeletionMark>
-			<v8:Code>000000002</v8:Code>
-			<v8:Description>Склад отгрузки</v8:Description>
+			<v8:Code>000000001</v8:Code>
+			<v8:Description>Склад 1</v8:Description>
 		</v8:CatalogObject.Склады>
 		<v8:CatalogObject.Контрагенты>
 			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">e9054228-736f-11e6-9148-e069953c651b</v8:Ref>
@@ -14,48 +14,28 @@
 			<v8:Description>Контрагент1</v8:Description>
 		</v8:CatalogObject.Контрагенты>
 		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">0f0aee3d-8158-11e6-a0b3-e069953c651b</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000005</v8:Code>
+			<v8:Description>Канцелярия</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
 			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">e9054229-736f-11e6-9148-e069953c651b</v8:Ref>
 			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">0f0aee3d-8158-11e6-a0b3-e069953c651b</v8:Parent>
 			<v8:Code>000000004</v8:Code>
 			<v8:Description>Ручка шариковая</v8:Description>
 		</v8:CatalogObject.Номенклатура>
 		<v8:DocumentObject.Поступление>
-			<v8:Ref>68a339bd-743a-11e6-9148-e069953c651b</v8:Ref>
+			<v8:Ref>75ec078e-815b-11e6-a0b3-e069953c651b</v8:Ref>
 			<v8:DeletionMark>false</v8:DeletionMark>
-			<v8:Date>2016-09-06T17:17:34</v8:Date>
-			<v8:Number>000000003</v8:Number>
+			<v8:Date>2016-09-01T00:00:00</v8:Date>
+			<v8:Number>000000001</v8:Number>
 			<v8:Posted>true</v8:Posted>
-			<v8:Склад xsi:type="v8:CatalogRef.Склады">99b42692-74fd-11e6-9148-e069953c651b</v8:Склад>
-			<v8:Контрагент xsi:type="v8:CatalogRef.Контрагенты">e9054228-736f-11e6-9148-e069953c651b</v8:Контрагент>
-			<v8:Товары>
-				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">e9054229-736f-11e6-9148-e069953c651b</v8:Номенклатура>
-				<v8:Количество>10</v8:Количество>
-				<v8:Цена>10</v8:Цена>
-				<v8:Сумма>100</v8:Сумма>
-			</v8:Товары>
-		</v8:DocumentObject.Поступление>
-		<v8:DocumentObject.Поступление>
-			<v8:Ref>68a339be-743a-11e6-9148-e069953c651b</v8:Ref>
-			<v8:DeletionMark>false</v8:DeletionMark>
-			<v8:Date>2016-09-07T16:26:16</v8:Date>
-			<v8:Number>000000004</v8:Number>
-			<v8:Posted>true</v8:Posted>
-			<v8:Склад xsi:type="v8:CatalogRef.Склады">99b42692-74fd-11e6-9148-e069953c651b</v8:Склад>
-			<v8:Контрагент xsi:type="v8:CatalogRef.Контрагенты">e9054228-736f-11e6-9148-e069953c651b</v8:Контрагент>
-			<v8:Товары>
-				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">e9054229-736f-11e6-9148-e069953c651b</v8:Номенклатура>
-				<v8:Количество>10</v8:Количество>
-				<v8:Цена>10</v8:Цена>
-				<v8:Сумма>100</v8:Сумма>
-			</v8:Товары>
-		</v8:DocumentObject.Поступление>
-		<v8:DocumentObject.Поступление>
-			<v8:Ref>73b388b8-7500-11e6-9148-e069953c651b</v8:Ref>
-			<v8:DeletionMark>false</v8:DeletionMark>
-			<v8:Date>2016-09-07T16:39:09</v8:Date>
-			<v8:Number>000000005</v8:Number>
-			<v8:Posted>true</v8:Posted>
-			<v8:Склад xsi:type="v8:CatalogRef.Склады">99b42692-74fd-11e6-9148-e069953c651b</v8:Склад>
+			<v8:Склад xsi:type="v8:CatalogRef.Склады">e9054227-736f-11e6-9148-e069953c651b</v8:Склад>
 			<v8:Контрагент xsi:type="v8:CatalogRef.Контрагенты">e9054228-736f-11e6-9148-e069953c651b</v8:Контрагент>
 			<v8:Товары>
 				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">e9054229-736f-11e6-9148-e069953c651b</v8:Номенклатура>
@@ -70,22 +50,42 @@
 			<v8:Code>000000002</v8:Code>
 			<v8:Description>2Контрагент</v8:Description>
 		</v8:CatalogObject.Контрагенты>
-		<v8:DocumentObject.Продажа>
-			<v8:Ref>5e9d2dad-75c2-11e6-9148-e069953c651b</v8:Ref>
+		<v8:DocumentObject.Поступление>
+			<v8:Ref>75ec078f-815b-11e6-a0b3-e069953c651b</v8:Ref>
 			<v8:DeletionMark>false</v8:DeletionMark>
-			<v8:Date>2016-09-08T17:15:04</v8:Date>
-			<v8:Number>000000001</v8:Number>
+			<v8:Date>2016-09-01T10:00:00</v8:Date>
+			<v8:Number>000000002</v8:Number>
 			<v8:Posted>true</v8:Posted>
+			<v8:Склад xsi:type="v8:CatalogRef.Склады">e9054227-736f-11e6-9148-e069953c651b</v8:Склад>
 			<v8:Контрагент xsi:type="v8:CatalogRef.Контрагенты">48d7e95c-74fe-11e6-9148-e069953c651b</v8:Контрагент>
-			<v8:Склад xsi:type="v8:CatalogRef.Склады">99b42692-74fd-11e6-9148-e069953c651b</v8:Склад>
-			<v8:Комментарий/>
 			<v8:Товары>
 				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">e9054229-736f-11e6-9148-e069953c651b</v8:Номенклатура>
-				<v8:Количество>20</v8:Количество>
-				<v8:Цена>15</v8:Цена>
-				<v8:Сумма>300</v8:Сумма>
+				<v8:Количество>10</v8:Количество>
+				<v8:Цена>10</v8:Цена>
+				<v8:Сумма>100</v8:Сумма>
 			</v8:Товары>
-		</v8:DocumentObject.Продажа>
+		</v8:DocumentObject.Поступление>
+		<v8:CatalogObject.Склады>
+			<v8:Ref xsi:type="v8:CatalogRef.Склады">99b42692-74fd-11e6-9148-e069953c651b</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000002</v8:Code>
+			<v8:Description>Склад отгрузки</v8:Description>
+		</v8:CatalogObject.Склады>
+		<v8:DocumentObject.Поступление>
+			<v8:Ref>75ec0790-815b-11e6-a0b3-e069953c651b</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Date>2016-09-01T12:00:00</v8:Date>
+			<v8:Number>000000003</v8:Number>
+			<v8:Posted>true</v8:Posted>
+			<v8:Склад xsi:type="v8:CatalogRef.Склады">99b42692-74fd-11e6-9148-e069953c651b</v8:Склад>
+			<v8:Контрагент xsi:type="v8:CatalogRef.Контрагенты">e9054228-736f-11e6-9148-e069953c651b</v8:Контрагент>
+			<v8:Товары>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">e9054229-736f-11e6-9148-e069953c651b</v8:Номенклатура>
+				<v8:Количество>10</v8:Количество>
+				<v8:Цена>10</v8:Цена>
+				<v8:Сумма>100</v8:Сумма>
+			</v8:Товары>
+		</v8:DocumentObject.Поступление>
 	</V8Exch:Data>
 	<PredefinedData/>
 </V8Exch:_1CV8DtUD>

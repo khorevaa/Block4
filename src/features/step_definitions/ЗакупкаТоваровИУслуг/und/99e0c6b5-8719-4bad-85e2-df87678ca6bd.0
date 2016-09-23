@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">0f0aee3d-8158-11e6-a0b3-e069953c651b</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000005</v8:Code>
+			<v8:Description>Канцелярия</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">e9054229-736f-11e6-9148-e069953c651b</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">0f0aee3d-8158-11e6-a0b3-e069953c651b</v8:Parent>
+			<v8:Code>000000004</v8:Code>
+			<v8:Description>Ручка шариковая</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">68a339bb-743a-11e6-9148-e069953c651b</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">0f0aee3d-8158-11e6-a0b3-e069953c651b</v8:Parent>
+			<v8:Code>000000003</v8:Code>
+			<v8:Description>карандаш</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">68a339ba-743a-11e6-9148-e069953c651b</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">0f0aee3d-8158-11e6-a0b3-e069953c651b</v8:Parent>
+			<v8:Code>000000002</v8:Code>
+			<v8:Description>Фломастер</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
